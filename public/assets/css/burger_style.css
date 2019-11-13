@@ -1,0 +1,53 @@
+.add {
+    padding: 3px;
+    margin-left: 7px;
+    font-weight: bold;
+    background-color: #71949E;
+}
+.ip {
+    margin-top: 20px;
+}
+.bg {
+    background: #2A5F6E;
+    background: -webkit-linear-gradient(to right, #71B280, #2A5F6E);
+    background: linear-gradient(to right, #71B280, #2A5F6E);
+    margin: 15px;
+    margin-left: 15px;
+    font-weight: bold;
+    width: 400px;
+    height: auto;
+    margin-bottom: 30px;
+}
+/* .sect {
+    margin-top: 30px;
+    margin-bottom: 30px;
+} */
+ul {
+  list-style-type: none;
+  margin: 7px;
+  width:100%;
+}
+.devour-btn{
+    margin-bottom: 7px;
+}
+.image {
+    text-align: center;
+    margin: 30px;
+}
+/* 
+.row{
+    text-align: auto;
+} */
+
+body {
+    background-color: rgba(111, 155, 156, 0.486);
+}
+
+.footer.text-center {
+    background-color: #71949E;
+}
+
+.card-title.ttl-color {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
