@@ -34,10 +34,10 @@ ul {
     text-align: center;
     margin: 30px;
 }
-/* 
+
 .row{
-    text-align: auto;
-} */
+    box-align: auto;
+}
 
 body {
     background-color: rgba(111, 155, 156, 0.486);
